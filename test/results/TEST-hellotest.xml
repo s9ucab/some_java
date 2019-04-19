@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="1" hostname="ip-172-31-85-164.ec2.internal" name="hellotest" skipped="0" tests="2" time="0.082" timestamp="2019-04-19T15:06:34">
+<testsuite errors="0" failures="1" hostname="ip-172-31-85-164.ec2.internal" name="hellotest" skipped="0" tests="2" time="0.071" timestamp="2019-04-19T15:17:19">
   <properties>
     <property name="ant.project.invoked-targets" value="junit" />
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
